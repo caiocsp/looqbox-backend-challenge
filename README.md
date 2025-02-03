@@ -35,5 +35,5 @@ On terminal, use the follow command to build:
 
 ## Project Structure Diagram
 
-![Project Structure Diagram](/looqBox_project_structure_Model.png)
+![Project Structure Diagram](/Project_Structure.jpg)
 
