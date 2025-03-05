@@ -1,4 +1,4 @@
-# Looqbox Backend Challenge
+# Backend Challenge
 
 This repository uses a  **Service Layer Pattern** to give a structure that includes:
 
